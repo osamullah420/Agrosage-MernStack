@@ -78,7 +78,7 @@ npm install
 3. Create .env File  in the `backend` directory and set your credentials:
 
 
-```bash
+```env
 PORT = 8080
 
 MONGO_URL = your mongo url
